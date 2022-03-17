@@ -1,7 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   background-color: white;
 }
 
-App {
+.App {
   font-family: arial;
+  padding: 1rem;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 5rem;
+}
+
+.sortBtn,
+label {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+label {
+  top: 10%;
 }
