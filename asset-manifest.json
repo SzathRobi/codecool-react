@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codecool-react/static/css/main.22067964.css",
+    "main.js": "/codecool-react/static/js/main.36154651.js",
+    "index.html": "/codecool-react/index.html",
+    "main.22067964.css.map": "/codecool-react/static/css/main.22067964.css.map",
+    "main.36154651.js.map": "/codecool-react/static/js/main.36154651.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22067964.css",
+    "static/js/main.36154651.js"
+  ]
+}
